@@ -436,9 +436,13 @@ Sugestões da turma e da professora:
 7. https://medium.com/ 
 8. https://aws.amazon.com/
 9. https://gifcap.dev/
-10. https://www.ufsm.br
-11. https://www.ufsm.br/pro-reitorias/proplan/portal-de-indicadores
-12. Esta página aqui que você está vendo!
+10. https://chicorei.com/
+11. https://www.ufsm.br
+12. [Painel de Monitoramento do Plano Nacional de Educação](https://app.powerbi.com/view?r=eyJrIjoiOGY5NWUyMDMtYzc0Mi00Y2Y5LTk3MmEtNThjMjJiY2NjNWExIiwidCI6IjI2ZjczODk3LWM4YWMtNGIxZS05NzhmLWVhNGMwNzc0MzRiZiJ9)
+13. https://survey.stackoverflow.co/2023/
+14. https://www.nytimes.com/interactive/projects/well/workouts/
+15. https://andreainfufsm.github.io/ps2-2020b/
+16. Esta página aqui que você está vendo!
 
 
 Perguntas:
