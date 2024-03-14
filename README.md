@@ -50,7 +50,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>14/03/2024</td>
 <td>Qui</td>
 <td><ul>
-<li>Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/02/README.md">Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</a></li>
 </ul></td>
 </tr>
 
