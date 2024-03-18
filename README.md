@@ -61,7 +61,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 <li>Unidades 1, 2 e 3: protocolos Web, linguagens HTML e CSS.</li>
 <li>
-Projeto: desenvolvimento e deploy de site estático.</li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/03/README.md">Projeto: desenvolvimento e deploy de site estático.</a></li>
 </ul></td>
 </tr>
 
@@ -88,7 +88,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>28/03/2024</td>
 <td>Qui</td>
 <td><ul>
-<li>Apresentação do primeiro projeto.</li>
+<li>Projeto: desenvolvimento e deploy de site estático.</li>
 </ul></td>
 </tr>
 
@@ -97,9 +97,7 @@ Projeto: desenvolvimento e deploy de site estático.</li>
 <td>02/04/2024</td>
 <td>Ter</td>
 <td><ul>
-<li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
-<li>
-Rumo ao segundo projeto: aplicações web dinâmicas.</li>
+<li>Apresentação do primeiro projeto.</li>
 </ul></td>
 </tr>
 
