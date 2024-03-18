@@ -22,6 +22,10 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 -->
 
 
+
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/03/README.md)
+
+
 # Primeiro projeto
 
 > Objetivo: "Remake" de um site/app existente (static / client-side)
