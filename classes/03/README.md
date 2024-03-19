@@ -95,7 +95,14 @@ Básico:
 
 ### Criação
 
-- Use HTML semântico: https://www.w3schools.com/html/html5_semantic_elements.asp
+- Use HTML semântico: 
+
+  - https://developer.mozilla.org/en-US/curriculum/core/semantic-html/
+    
+    - Dúvida `section X div`? *The [section element](https://html.spec.whatwg.org/multipage/sections.html#the-section-element) is not a generic container element. When an element is needed only for styling purposes or as a convenience for scripting, authors are encouraged to use the div element instead. A general rule is that the section element is appropriate only if the element's contents would be listed explicitly in the document's outline* 
+
+  - https://www.w3schools.com/html/html5_semantic_elements.asp
+  
 
 - Aproveite bibliotecas facilitadoras / CSS frameworks:
 
