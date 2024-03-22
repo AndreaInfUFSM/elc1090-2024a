@@ -18,7 +18,7 @@ translation: English  translations/English.md
 
 <!--
 liascript-devserver --input README.md --port 3001 --live
-https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2023a/master/classes/02/README.md
+https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/04/README.md
 -->
 
 
@@ -138,10 +138,17 @@ Na inf.ufsm.br:
 
 ## Entrega
 
-Clique aqui para associar sua conta no GitHub a este projeto da disciplina: https://classroom.github.com/a/Om0fJQFC
+
+- Clique aqui para associar sua conta no GitHub a este projeto da disciplina: https://classroom.github.com/a/Om0fJQFC
+
+- Baixe este arquivo: https://github.com/AndreaInfUFSM/elc1090-2024a/blob/master/classes/03/entrega/README.md (clique em Raw para obter o código em formato Markdown). Siga as instruções do arquivo para preenchê-lo e depois adicione-o ao seu repositório de entrega deste projeto.
+
+-  Prepare-se para uma apresentação do projeto com duração de 3 a 5 minutos, com ênfase no processo de desenvolvimento.
+
+- Prazos:
+
+  - Repositório atualizado até o final da segunda-feira, 01/04. 
+  - Apresentação na terça-feira, 02/04.
 
 
-
-
-Veja mais instruções aqui na próxima aula!
 

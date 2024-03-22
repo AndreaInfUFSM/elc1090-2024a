@@ -75,16 +75,17 @@ Apresentação da disciplina e do plano de ensino.</li>
 </tr>
 
 <tr>
-<td align="right">5</td>
+<td align="right"></td>
 <td>26/03/2024</td>
 <td>Ter</td>
 <td><ul>
-<li>Projeto: desenvolvimento e deploy de site estático.</li>
+<li>SEM AULA (professora em afastamento para participar de evento).</li>
 </ul></td>
 </tr>
 
+
 <tr>
-<td align="right">6</td>
+<td align="right">5</td>
 <td>28/03/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -93,7 +94,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 </tr>
 
 <tr>
-<td align="right">7</td>
+<td align="right">6</td>
 <td>02/04/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -102,7 +103,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 </tr>
 
 <tr>
-<td align="right">8</td>
+<td align="right">7</td>
 <td>04/04/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -113,7 +114,7 @@ Rumo ao segundo projeto: aplicações web dinâmicas.</li>
 </tr>
 
 <tr>
-<td align="right">9</td>
+<td align="right">8</td>
 <td>09/04/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -124,7 +125,7 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 </tr>
 
 <tr>
-<td align="right">10</td>
+<td align="right">9</td>
 <td>11/04/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -135,7 +136,7 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 </tr>
 
 <tr>
-<td align="right">11</td>
+<td align="right">10</td>
 <td>16/04/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -146,7 +147,7 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 </tr>
 
 <tr>
-<td align="right">12</td>
+<td align="right">11</td>
 <td>18/04/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -157,7 +158,7 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 </tr>
 
 <tr>
-<td align="right">13</td>
+<td align="right">12</td>
 <td>23/04/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -166,7 +167,7 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 </tr>
 
 <tr>
-<td align="right">14</td>
+<td align="right">13</td>
 <td>25/04/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -175,7 +176,7 @@ Projeto: desenvolvimento de aplicação com API web pública.</li>
 </tr>
 
 <tr>
-<td align="right">15</td>
+<td align="right">14</td>
 <td>30/04/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -186,7 +187,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">16</td>
+<td align="right">15</td>
 <td>02/05/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -197,7 +198,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">17</td>
+<td align="right">16</td>
 <td>07/05/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -208,7 +209,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">18</td>
+<td align="right">17</td>
 <td>09/05/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -219,7 +220,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">19</td>
+<td align="right">18</td>
 <td>14/05/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -228,7 +229,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">20</td>
+<td align="right">19</td>
 <td>16/05/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -237,7 +238,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">21</td>
+<td align="right">20</td>
 <td>21/05/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -246,7 +247,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">22</td>
+<td align="right">21</td>
 <td>23/05/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -255,7 +256,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">23</td>
+<td align="right">22</td>
 <td>28/05/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -273,7 +274,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">24</td>
+<td align="right">23</td>
 <td>04/06/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -282,7 +283,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">25</td>
+<td align="right">24</td>
 <td>06/06/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -291,7 +292,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">26</td>
+<td align="right">25</td>
 <td>11/06/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -300,7 +301,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">27</td>
+<td align="right">26</td>
 <td>13/06/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -309,7 +310,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">28</td>
+<td align="right">27</td>
 <td>18/06/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -318,7 +319,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">29</td>
+<td align="right">28</td>
 <td>20/06/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -327,7 +328,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">30</td>
+<td align="right">29</td>
 <td>25/06/2024</td>
 <td>Ter</td>
 <td><ul>
@@ -336,7 +337,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">31</td>
+<td align="right">30</td>
 <td>27/06/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -346,8 +347,12 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 
 
 
+
+
+
+
 <tr>
-<td align="right">32</td>
+<td align="right">31</td>
 <td>04/07/2024</td>
 <td>Qui</td>
 <td><ul>
