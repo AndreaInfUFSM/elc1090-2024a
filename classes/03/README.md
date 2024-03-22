@@ -150,5 +150,15 @@ Na inf.ufsm.br:
   - Repositório atualizado até o final da segunda-feira, 01/04. 
   - Apresentação na terça-feira, 02/04.
 
+- Avaliação: veja rubricas/critérios de avaliação no próximo slide
 
+### Rubricas de avaliação
+
+<!-- data-type="none" -->
+| Descrição   | Nota   |
+| :--------- | :--------- |
+| Remake com diferenças significativas, tanto no estilo como na estrutura/código, com evidente empenho no processo e atenção às instruções | 10 a 12 |
+| Remake com diferenças significativas mas limitadas, com evidente empenho no processo | 7 a 9 |
+| Remake atendendo minimamente os requisitos do projeto, mas mesmo assim demonstrando empenho no processo | 5 a 7 |
+| Trabalho não entregue, ou com indícios de desonestidade acadêmica, ou feito de última hora (sem evidências de empenho e atenção às orientações)  | 0 a 5 |
 
