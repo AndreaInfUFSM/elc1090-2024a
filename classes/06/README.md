@@ -18,43 +18,25 @@ translation: English  translations/English.md
 
 <!--
 liascript-devserver --input README.md --port 3001 --live
-https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/04/README.md
+https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/06/README.md
 -->
 
 
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/03/README.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/06/README.md)
 
 
-# Primeiro projeto
+# Apresentações do primeiro projeto
 
 > Objetivo: "Remake" de um site/app existente (static / client-side)
 
+## Alternativas
 
-Remake?
-
-- Conteúdo existente (que você pode, inclusive, obter com scraping)
-- Diferenças devem ser significativas
-
-  - Código recriado do zero ou muito modificado
-  - Não vale só trocar estilo no CSS :-)
-
-## Temática 
-
-Temática para escolha de site/app: **inovação**
-
-- landing page de startup / produto / projeto / serviço inovador
-- portfolio / galeria de projetos ou empresas inovadores
-
-
-### Escolha entre...
-
-Opções preferenciais para "remake"
 
 1. Startups InovaTec UFSM: https://www.ufsm.br/orgaos-suplementares/inovatec/startups
 2. Startups Hub Navi AI New Ventures: https://www.navi.com.ai/
 3. Pesquisas/Pesquisadores Serrapilheira: https://serrapilheira.org/pesquisadores
-4. Apps client-side Avalia TCC CC/SI (*):
+4. Apps client-side Avalia TCC CC/SI:
 
    - https://andreainfufsm.github.io/avaliatcc/andamentocc/
    - https://andreainfufsm.github.io/avaliatcc/finalsi/
@@ -63,96 +45,183 @@ Opções preferenciais para "remake"
    - https://andreainfufsm.github.io/avaliatcc/atacc/
 
 
-(*) Recomendável para quem já tem experiência na área
+## 1 InovaTec UFSM
 
+Site original:
 
-## Recursos permitidos
+https://www.ufsm.br/orgaos-suplementares/inovatec/startups
 
-- Básico: HTML, CSS
-- Bibliotecas e templates
+### Augusto
 
-  - https://bootstrapmade.com/
-  - https://www.w3schools.com/bootstrap/bootstrap_templates.asp
-  - Ou faça sua própria busca
+Repo: https://github.com/elc1090/project1-2024a-AKL77
 
-- Proibido: plataformas no-code (Wix, Google Sites, etc.), CMS (Wordpress, Joomla, etc.), front-end frameworks (React, etc.), geradores de sites estáticos (Hugo, Gatsby, etc.) (a não ser que seja para trabalho extra, comparativo)
+Deploy: 
 
+### Luiz Felipe
 
+Repo: https://github.com/elc1090/project1-2024a-luizfelipecavalheiro
 
+Deploy: https://elc1090.github.io/project1-2024a-luizfelipecavalheiro/
 
+### Marcos N.
 
-## Desenvolvimento
+Repo: https://github.com/elc1090/project1-2024a-MarcosNoble
 
-Básico:
-
-- obtenção de conteúdo
-- criação
-
-  - estrutura; código HTML
-  - estilo: código CSS
-- hospedagem/publicação/deploy
-
-
-### Criação
-
-- Use HTML semântico: 
-
-  - https://developer.mozilla.org/en-US/curriculum/core/semantic-html/
-    
-    - Dúvida `section X div`? *The [section element](https://html.spec.whatwg.org/multipage/sections.html#the-section-element) is not a generic container element. When an element is needed only for styling purposes or as a convenience for scripting, authors are encouraged to use the div element instead. A general rule is that the section element is appropriate only if the element's contents would be listed explicitly in the document's outline* 
-
-  - https://www.w3schools.com/html/html5_semantic_elements.asp
-  
-
-- Aproveite bibliotecas facilitadoras / CSS frameworks:
-
-  - Bootstrap: https://getbootstrap.com/ | https://www.w3schools.com/bootstrap/
-  - Tailwind: https://tailwindcss.com/ 
-  - Ver: https://ritza.co/articles/tailwind-css-vs-bootstrap-vs-material-ui-vs-styled-components-vs-bulma-vs-sass/
+Deploy: https://marcosnoble.github.io/WebT1/
 
 
 
-### Hospedagem
+### Miguel
 
-Muitas opções de hospedagem gratuita:
+Repo: https://github.com/elc1090/project1-2024a-MiguelMironSilva
 
-- GitHub Pages
+Deploy: 
 
-  - Exemplo: https://gsajulia.github.io/
-  - Exemplo: https://lorenzofman.github.io/
-- Vercel
-- Render
-- Netlify
-- Repl.it
-- Muitos outros...
 
-Na inf.ufsm.br:
+### Pedro
 
-- Entrar com seu usuário/senha em portal.inf.ufsm.br 
-- Copiar arquivos para a pasta public_html
-- Exemplo: http://www-usr.inf.ufsm.br/~rtrindade/
+Repo: https://github.com/elc1090/project1-2024a-P3droSilva
+
+Deploy: https://elc1090.github.io/project1-2024a-P3droSilva/
 
 
 
+### Wederson
+
+Repo: https://github.com/elc1090/project1-2024a-wedersonf
+
+Deploy: 
 
 
-## Entrega
+
+## 2 Hub Navi AI
+
+Site original:
+
+https://www.navi.com.ai/
+
+### Flávio
+
+Repo: https://github.com/elc1090/project1-2024a-Fleivio
+
+Deploy: https://fleivio.github.io/src/
 
 
-- Clique aqui para associar sua conta no GitHub a este projeto da disciplina: https://classroom.github.com/a/Om0fJQFC
+### Thales
 
-- Baixe este arquivo: https://github.com/AndreaInfUFSM/elc1090-2024a/blob/master/classes/03/entrega/README.md (clique em Raw para obter o código em formato Markdown). Siga as instruções do arquivo para preenchê-lo e depois adicione-o ao seu repositório de entrega deste projeto.
 
--  Prepare-se para uma apresentação do projeto com duração de 3 a 5 minutos, com ênfase no processo de desenvolvimento.
+Repo: 
 
-- Prazos:
+Deploy:
 
-  - Repositório atualizado até o final da segunda-feira, 01/04. 
-  - Apresentação na terça-feira, 02/04.
 
-- Avaliação: veja rubricas/critérios de avaliação no próximo slide
+## 3 Serrapilheira
 
-### Rubricas de avaliação
+
+Site original:
+
+https://serrapilheira.org/pesquisadores
+
+
+
+### Marcos V.
+
+Repo: https://github.com/elc1090/project1-2024a-wisentini
+
+Deploy:
+
+### Mauro
+
+Repo: https://github.com/elc1090/project1-2024a-mrtrevisan
+
+Deploy: https://github.com/elc1090/project1-2024a-mrtrevisan
+
+
+### Ramon
+
+Repo: https://github.com/elc1090/project1-2024a-RamonXXII
+
+Deploy: https://elc1090.github.io/project1-2024a-RamonXXII/
+
+
+
+## 4 Avalia TCC
+
+Apps client-side Avalia TCC CC/SI:
+
+- https://andreainfufsm.github.io/avaliatcc/andamentocc/
+- https://andreainfufsm.github.io/avaliatcc/finalsi/
+- https://andreainfufsm.github.io/avaliatcc/atasi/
+- https://andreainfufsm.github.io/avaliatcc/finalcc/
+- https://andreainfufsm.github.io/avaliatcc/atacc/
+
+
+### Anthony
+
+Repo: 
+
+Deploy:
+
+### Bruna
+
+Repo: https://github.com/elc1090/project1-2024a-brucvei
+
+Deploy: https://proejto-1.onrender.com/
+
+### Ivan
+
+Repo: https://github.com/elc1090/project1-2024a-IvanMaidana
+
+Deploy: https://trabalho1-web-zeta.vercel.app/
+
+### Jhuan
+
+Repo: https://github.com/elc1090/project1-2024a-Jhuanassumpcao
+
+Deploy: https://elc1090.github.io/project1-2024a-Jhuanassumpcao/index.html
+
+### Lucas
+
+Repo: https://github.com/elc1090/project1-2024a-Lucas-MFS
+
+Deploy:
+
+### Matheus
+
+Repo: https://github.com/elc1090/project1-2024a-matheus-delazeri
+
+Deploy: https://matheus-delazeri.github.io/form-tcc/
+
+### Renan
+
+Repo: https://github.com/elc1090/project1-2024a-postrenan
+
+Deploy:
+
+### Tiago
+
+Repo: 
+
+Deploy:
+
+### Vitória
+
+Repo: https://github.com/elc1090/project1-2024a-pizzutta
+
+Deploy: https://elc1090.github.io/project1-2024a-pizzutta/
+
+
+## 5 Outro site
+
+### Alfredo
+
+Repo: https://github.com/elc1090/project1-2024a-GalileuGalilei
+
+Deploy: https://elc1090.github.io/project1-2024a-GalileuGalilei/
+
+
+
+## Rubricas de avaliação
 
 <!-- data-type="none" -->
 | Descrição   | Nota   |

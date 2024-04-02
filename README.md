@@ -90,7 +90,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>28/03/2024</td>
 <td>Qui</td>
 <td><ul>
-<li>Projeto: desenvolvimento e deploy de site estático.</li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/03/README.md">Projeto: desenvolvimento e deploy de site estático.</a></li>
 </ul></td>
 </tr>
 
@@ -99,7 +100,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>02/04/2024</td>
 <td>Ter</td>
 <td><ul>
-<li>Apresentação do primeiro projeto.</li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/06/README.md">Apresentação do primeiro projeto.</a></li>
 </ul></td>
 </tr>
 
