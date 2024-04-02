@@ -51,11 +51,7 @@ Site original:
 
 https://www.ufsm.br/orgaos-suplementares/inovatec/startups
 
-### Augusto
 
-Repo: https://github.com/elc1090/project1-2024a-AKL77
-
-Deploy: 
 
 ### Luiz Felipe
 
