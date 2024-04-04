@@ -128,7 +128,7 @@ Muitos sites dedicados a compilar listas de APIs para ajudar devs:
   https://github.com/public-api-lists/public-api-lists
 
 
-- Oportunidades de negócio (!?)
+- Oportunidades de negócio (!?) (procure por "API economy")
 
 
 
