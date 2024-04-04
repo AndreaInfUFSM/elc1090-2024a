@@ -201,7 +201,7 @@ Avance para conhecer os requisitos.
 
 ### Repositório de entrega
 
-  - Clique para criar repositório da dupla: https://classroom.github.com/a/OdorzJ_T
-  - Repositório contém código 
-  - Entrega até a próxima aula
+- Clique para criar repositório da dupla: https://classroom.github.com/a/OdorzJ_T
+- Repositório contém código 
+- Entrega até a próxima aula
 
