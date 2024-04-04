@@ -112,7 +112,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 <li>Unidades 2, 3 e 4: HTML, CSS e linguagens de scripting.</li>
 <li>
-Rumo ao segundo projeto: aplicações web dinâmicas.</li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/07/README.md">Rumo ao segundo projeto: aplicações web dinâmicas.</a></li>
+
 </ul></td>
 </tr>
 
