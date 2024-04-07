@@ -21,6 +21,7 @@ liascript-devserver --input README.md --port 3001 --live
 https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/07/README.md
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/07/README.md)
 
 # Rumo ao segundo projeto
 
