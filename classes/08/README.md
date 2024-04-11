@@ -100,7 +100,7 @@ Repositório da dupla
 https://classroom.github.com/a/vX7_usyp
 
 
-### Valição da proposta
+### Validação da proposta
 
 - Cada dupla vai preencher sua proposta no README do repositório
 - A proposta será validada pela professora
