@@ -86,7 +86,7 @@ Alguns links:
 - Deploy obrigatório!
 
 
-## Repositório
+## Repositório de entrega
 
 
 Repositório da dupla
@@ -100,14 +100,15 @@ Repositório da dupla
 https://classroom.github.com/a/vX7_usyp
 
 
-### Validar proposta
+### Valição da proposta
 
-- Cada dupla vai preencher sua proposta no README.md do repositório
+- Cada dupla vai preencher sua proposta no README do repositório
 - A proposta será validada pela professora
 
+Modelo de README de entrega: [README.md](entrega/README.md)
 
 
-## Entrega
+## Entrega: datas
 
 - 22/04/2024: Repositório atualizado, deploy realizado
 - 23/04/2024: Apresentação
