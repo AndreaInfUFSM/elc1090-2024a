@@ -1,0 +1,2 @@
+https://expo-inf-production.up.railway.app/
+https://andreainfufsm.github.io/ps2-2023b/portfolio/
