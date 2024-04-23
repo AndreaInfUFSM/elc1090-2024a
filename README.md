@@ -166,7 +166,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>23/04/2024</td>
 <td>Ter</td>
 <td><ul>
-<li>Apresentação do segundo projeto.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/12/README.md">Apresentação do segundo projeto.</a></li>
 </ul></td>
 </tr>
 
