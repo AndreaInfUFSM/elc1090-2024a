@@ -47,7 +47,7 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 ## Trabalhos
 
-
+Avance para ver cada trabalho...
 
 
 ### Vitória e Bruna
@@ -139,3 +139,6 @@ Deploy: ?
 
 
 
+## Para reflexão
+
+![](ux-vs-ui.jpeg)
