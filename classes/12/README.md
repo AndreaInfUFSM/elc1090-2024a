@@ -142,3 +142,9 @@ Deploy: ?
 ## Para reflexão
 
 ![](ux-vs-ui.jpeg)
+
+## Forks
+
+Sugestão para rodada de forks:
+
+https://docs.google.com/spreadsheets/d/1fTClEqTxRSqlGZfqktCPhj4d_UOjh6Z4sBV1UnDjELg/edit?usp=sharing
