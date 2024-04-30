@@ -18,133 +18,246 @@ translation: English  translations/English.md
 
 <!--
 liascript-devserver --input README.md --port 3001 --live
-https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/12/README.md
+https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/14/README.md
 -->
 
 
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/12/README.md)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/14/README.md)
 
 
-# Apresentações do segundo projeto
-
-> Objetivo: Criar aplicação web consumindo API pública 
-
-> Temática: **Conhecimento**
+# Forks do segundo projeto
 
 
+Planilha com distribuição dos forks e sugestões de melhorias:
 
-## Alternativas
-
-
-1. Usar uma API que forneça questões para testes (ex.: quizapi) e/ou organize conteúdos (ex.: BNCC)
+https://docs.google.com/spreadsheets/d/1fTClEqTxRSqlGZfqktCPhj4d_UOjh6Z4sBV1UnDjELg/edit?usp=sharing
 
 
+## Forks
 
-2. Criar uma API e consumir seus endpoints em uma aplicação de exemplo
-
-
-
-## Trabalhos
-
-Avance para ver cada trabalho...
+Avance para ver cada fork...
 
 
 ### Vitória e Bruna
 
-Alternativa: 1 (QuizAPI)
+Fork:
 
-Repo: https://github.com/elc1090/project2-2024a-vitoria-e-bruna-1
-
-Deploy: https://techquiz-l3hq.onrender.com/
-
-### Ivan e Matheus
-
-Alternativa: 1 (QuizAPI)
-
-Repo: https://github.com/elc1090/project2-2024a-ivan-e-matheus
+- https://github.com/elc1090/project2-2024a-fork-quotable-api
 
 
-Deploy: https://elc1090.github.io/project2-2024a-ivan-e-matheus/
+Original:
 
-### Marcos
+- Devs: Anthony e Luiz Felipe
 
-Alternativa: 1 (QuizAPI)
+- API: Quotable API
 
-Repo: https://github.com/elc1090/project2-2024a-marcos-noble
+- Issue: mostrar tags disponíveis
 
-Deploy: https://elc1090.github.io/project2-2024a-marcos-noble/
+- Tech: VueJS
 
-
-### Renan e Thales
-
-Alternativa: 1 (QuizAPI)
-
-Repo: https://github.com/elc1090/project2-2024a-aapi-renan
-
-Deploy: https://elc1090.github.io/project2-2024a-aapi-renan/
+- Repo: https://github.com/elc1090/project2-2024a-anthony-e-luizfelipe-quotable-api
+- Deploy: https://project2-2024a-anthony-e-luizfelipe-quotable-api.vercel.app/
 
 
-### Anthony e Luiz Felipe
-
-Alternativa: 1 (Quotable API) 
-
-
-Repo: https://github.com/elc1090/project2-2024a-anthony-e-luizfelipe-quotable-api
-
-Deploy: https://project2-2024a-anthony-e-luizfelipe-quotable-api.vercel.app/
-
-
-
-
-### Pedro e Ramon
-
-Alternativa: 1 (Open Trivia Database API)
-
-Repo: https://github.com/elc1090/project2-2024a-pedro-e-ramon
-
-Deploy: https://elc1090.github.io/project2-2024a-pedro-e-ramon/
-
-
-
-
-### Jhuan e Flavio
-
-Alternativa: 1 (Open Trivia Database API) 
-
-Repo: https://github.com/elc1090/project2-2024a-jhuan-e-flavio
-
-Deploy: https://lambda-quiz.vercel.app/
 
 
 ### Alfredo e Mauro
 
-Alternativa: 2  (Backend com API REST Countries) 
 
-Repo: https://github.com/elc1090/project2-2024a-alfredo-e-mauro
+Fork:
 
-Deploy: https://galileugalilei.github.io/flag-game
+- https://github.com/elc1090/project2-2024a-fork-aapi-renan-by_Alfredo_e_Mauro
 
+
+Original:
+
+- Devs: Renan e Thales
+
+- API: QuizAPI
+
+- Issue: mais filtro, uso do espaço
+
+- Tech: ReactJS
+
+- Repo: https://github.com/elc1090/project2-2024a-aapi-renan
+
+- Deploy: https://elc1090.github.io/project2-2024a-aapi-renan/
+
+
+
+
+
+
+### Renan e Thales
+
+
+
+Fork:
+
+- https://github.com/elc1090/project2-2024a-fork-matheus-e-wederson-remodelado-by-rt-renan-y-thales
+
+
+Original:
+
+- Devs: Matheus e Wederson
+
+- API: Custom
+
+- Issue: estilo home
+
+- Tech: ReactJS, NextJS, Prisma
+
+- Repo: https://github.com/elc1090/project2-2024a-matheus-e-wederson
+
+
+- Deploy: https://fraud-detection-beta.vercel.app/
+
+
+
+
+
+### Anthony e Luiz Felipe
+
+
+Fork:
+
+- https://github.com/elc1090/project2-2024a-fork-anthony-luizfelipe
+
+
+Original:
+
+- Devs: Jhuan e Flávio
+
+- API: Open Trivia Database API
+
+- Issue: filtro, mostrar seleções
+
+- Tech: ReactJS, Bootstrap
+
+- Repo: https://github.com/elc1090/project2-2024a-jhuan-e-flavio
+
+- Deploy: https://lambda-quiz.vercel.app/
 
 
 
 
 ### Matheus e Wederson
 
-Alternativa: 2 (API de detecção de transações fraudulentas)
+Fork:
 
-Repo: https://github.com/elc1090/project2-2024a-matheus-e-wederson
-
-Deploy: ?
+- ?
 
 
+Original:
 
-## Para reflexão
+- Devs: Alfredo e Mauro
 
-![](ux-vs-ui.jpeg)
+- API: Custom / Countries API
 
-## Forks
+- Issue: svg -> png, não repetir países
 
-Sugestão para rodada de forks:
+- Tech: JavaScript, Bootstrap, ExpressJS
 
-https://docs.google.com/spreadsheets/d/1fTClEqTxRSqlGZfqktCPhj4d_UOjh6Z4sBV1UnDjELg/edit?usp=sharing
+- Repo: https://github.com/elc1090/project2-2024a-alfredo-e-mauro
+
+- Deploy: https://galileugalilei.github.io/flag-game
+
+
+### Marcos
+
+
+Fork:
+
+- ?
+
+
+Original:
+
+- Devs: Pedro e Ramon
+
+- API: Open Trivia Database API
+
+- Issue: Mostrar escolhas na home
+
+- Tech: JavaScript
+
+- Repo: https://github.com/elc1090/project2-2024a-pedro-e-ramon
+
+- Deploy: https://elc1090.github.io/project2-2024a-pedro-e-ramon/
+
+
+
+
+### Ivan e Matheus
+
+
+Fork:
+
+- https://github.com/elc1090/project2-2024a-fork-marcos-noble
+
+
+Original:
+
+- Devs: Marcos
+
+- API: QuizAPI
+
+- Issue: CSS, usar melhor o espaço
+
+- Tech: JavaScript
+
+- Repo: https://github.com/elc1090/project2-2024a-marcos-noble
+
+- Deploy: https://elc1090.github.io/project2-2024a-marcos-noble/
+
+
+
+### Pedro e Ramon
+
+Fork:
+
+- https://github.com/elc1090/project2-2024a-fork-ivan-e-matheus
+
+
+Original:
+
+- Devs: Ivan e Matheus
+
+- API: QuizAPI
+
+- Issue: Estilizar home
+
+- Tech: JavaScript
+
+- Repo: https://github.com/elc1090/project2-2024a-ivan-e-matheus
+
+
+- Deploy: https://elc1090.github.io/project2-2024a-ivan-e-matheus/
+
+
+### Jhuan e Flavio
+
+
+Fork:
+
+- https://github.com/elc1090/project2-2024a-fork-flavio-jhuan
+
+
+
+Original:
+
+- Devs: Vitória e Bruna
+
+- API: QuizAPI
+
+- Issue: Cores, uso do espaço
+
+- Tech: Angular, Clarity Design System
+
+
+- Repo: https://github.com/elc1090/project2-2024a-vitoria-e-bruna-1
+
+- Deploy: https://techquiz-l3hq.onrender.com/
+
+

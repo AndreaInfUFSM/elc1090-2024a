@@ -175,7 +175,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>25/04/2024</td>
 <td>Qui</td>
 <td><ul>
-<li>Discussão sobre o segundo projeto e definições sobre o terceiro projeto.</li>
+<li>Distribuição de grupos para rodada de forks do segundo projeto.</li>
 </ul></td>
 </tr>
 
@@ -184,9 +184,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>30/04/2024</td>
 <td>Ter</td>
 <td><ul>
-<li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/14/README.md">Apresentação da rodada de forks do segundo projeto.</a></li>
+
 </ul></td>
 </tr>
 
