@@ -189,21 +189,20 @@ Apresentação da disciplina e do plano de ensino.</li>
 </ul></td>
 </tr>
 
+
 <tr>
 <td align="right">15</td>
-<td>02/05/2024</td>
-<td>Qui</td>
+<td>21/05/2024</td>
+<td>Ter</td>
 <td><ul>
-<li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li>Atividade de retorno às aulas, após interrupção devido às enchentes.</li>
 </ul></td>
 </tr>
 
 <tr>
 <td align="right">16</td>
-<td>07/05/2024</td>
-<td>Ter</td>
+<td>23/05/2024</td>
+<td>Qui</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
 <li>
@@ -213,8 +212,8 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 
 <tr>
 <td align="right">17</td>
-<td>09/05/2024</td>
-<td>Qui</td>
+<td>28/05/2024</td>
+<td>Ter</td>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
 <li>
@@ -223,26 +222,35 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
+<td align="right"></td>
+<td>30/05/2024</td>
+<td>Qui</td>
+<td><ul><li>FERIADO - Corpus Christi, feriado nacional</li></ul></td>
+</tr>
+
+<tr>
 <td align="right">18</td>
-<td>14/05/2024</td>
+<td>04/06/2024</td>
 <td>Ter</td>
+<td><ul>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>
+Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">19</td>
+<td>06/06/2024</td>
+<td>Qui</td>
 <td><ul>
 <li>Rodada de apresentações do terceiro projeto.</li>
 </ul></td>
 </tr>
 
 <tr>
-<td align="right">19</td>
-<td>16/05/2024</td>
-<td>Qui</td>
-<td><ul>
-<li>Aperfeiçoamento do terceiro projeto.</li>
-</ul></td>
-</tr>
-
-<tr>
 <td align="right">20</td>
-<td>21/05/2024</td>
+<td>11/06/2024</td>
 <td>Ter</td>
 <td><ul>
 <li>Aperfeiçoamento do terceiro projeto.</li>
@@ -251,7 +259,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 
 <tr>
 <td align="right">21</td>
-<td>23/05/2024</td>
+<td>13/06/2024</td>
 <td>Qui</td>
 <td><ul>
 <li>Rodada de apresentações do terceiro projeto.</li>
@@ -260,7 +268,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 
 <tr>
 <td align="right">22</td>
-<td>28/05/2024</td>
+<td>18/06/2024</td>
 <td>Ter</td>
 <td><ul>
 <li>Discussão sobre os projetos anteriores e definições sobre o projeto final.</li>
@@ -268,61 +276,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right"></td>
-<td>30/05/2024</td>
-<td>Qui</td>
-<td><ul>
-<li>FERIADO - Corpus Christi, feriado nacional</li>
-</ul></td>
-</tr>
-
-<tr>
 <td align="right">23</td>
-<td>04/06/2024</td>
-<td>Ter</td>
-<td><ul>
-<li>Desenvolvimento do projeto final.</li>
-</ul></td>
-</tr>
-
-<tr>
-<td align="right">24</td>
-<td>06/06/2024</td>
-<td>Qui</td>
-<td><ul>
-<li>Desenvolvimento do projeto final.</li>
-</ul></td>
-</tr>
-
-<tr>
-<td align="right">25</td>
-<td>11/06/2024</td>
-<td>Ter</td>
-<td><ul>
-<li>Desenvolvimento do projeto final.</li>
-</ul></td>
-</tr>
-
-<tr>
-<td align="right">26</td>
-<td>13/06/2024</td>
-<td>Qui</td>
-<td><ul>
-<li>Desenvolvimento do projeto final.</li>
-</ul></td>
-</tr>
-
-<tr>
-<td align="right">27</td>
-<td>18/06/2024</td>
-<td>Ter</td>
-<td><ul>
-<li>Desenvolvimento do projeto final.</li>
-</ul></td>
-</tr>
-
-<tr>
-<td align="right">28</td>
 <td>20/06/2024</td>
 <td>Qui</td>
 <td><ul>
@@ -331,9 +285,54 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 </tr>
 
 <tr>
-<td align="right">29</td>
+<td align="right">24</td>
 <td>25/06/2024</td>
 <td>Ter</td>
+<td><ul>
+<li>Desenvolvimento do projeto final.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">25</td>
+<td>27/06/2024</td>
+<td>Qui</td>
+<td><ul>
+<li>Desenvolvimento do projeto final.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">26</td>
+<td>02/07/2024</td>
+<td>Ter</td>
+<td><ul>
+<li>Desenvolvimento do projeto final.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">27</td>
+<td>04/07/2024</td>
+<td>Qui</td>
+<td><ul>
+<li>Desenvolvimento do projeto final.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">28</td>
+<td>09/07/2024</td>
+<td>Ter</td>
+<td><ul>
+<li>Desenvolvimento do projeto final.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">29</td>
+<td>11/07/2024</td>
+<td>Qui</td>
 <td><ul>
 <li>Apresentações dos projetos finais.</li>
 </ul></td>
@@ -341,12 +340,37 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 
 <tr>
 <td align="right">30</td>
-<td>27/06/2024</td>
-<td>Qui</td>
+<td>16/07/2024</td>
+<td>Ter</td>
 <td><ul>
 <li>Apresentações dos projetos finais.</li>
 </ul></td>
 </tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -356,8 +380,8 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 
 <tr>
 <td align="right">31</td>
-<td>04/07/2024</td>
-<td>Qui</td>
+<td>A definir</td>
+<td>-</td>
 <td><ul>
 <li>Avaliação final (exame).</li>
 </ul></td>
@@ -385,7 +409,7 @@ A avaliação irá considerar a **produção** dos estudantes em 4 projetos e os
   - Projeto 3 - peso 4
   - Projeto 4 - peso 4
   - Participação - peso 2
-- Exame: 04/07/2024
+- Exame: ~~04/07/2024~~
 
 <p align="right">(<a href="#readme-top">início</a>)</p>
 

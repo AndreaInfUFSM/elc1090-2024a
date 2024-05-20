@@ -44,6 +44,7 @@ Avance para ver cada fork...
 Fork:
 
 - https://github.com/elc1090/project2-2024a-fork-quotable-api
+- https://github.com/elc1090/project2-2024a-fork-quotable-api-v2
 
 
 Original:
