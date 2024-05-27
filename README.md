@@ -204,9 +204,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>23/05/2024</td>
 <td>Qui</td>
 <td><ul>
-<li>Unidade 5: servidor e banco de dados.</li>
-<li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<li>Atividade de retorno às aulas, após interrupção devido às enchentes.</li>
+
 </ul></td>
 </tr>
 
@@ -217,7 +216,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
 <li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
