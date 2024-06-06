@@ -234,7 +234,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 <li>Unidade 5: servidor e banco de dados.</li>
 <li>
-Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
@@ -243,7 +243,9 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>06/06/2024</td>
 <td>Qui</td>
 <td><ul>
-<li>Rodada de apresentações do terceiro projeto.</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
@@ -252,7 +254,9 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>11/06/2024</td>
 <td>Ter</td>
 <td><ul>
-<li>Aperfeiçoamento do terceiro projeto.</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
@@ -261,7 +265,9 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>13/06/2024</td>
 <td>Qui</td>
 <td><ul>
-<li>Rodada de apresentações do terceiro projeto.</li>
+<li>Unidade 5: servidor e banco de dados.</li>
+<li>
+<a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/17/README.md">Projeto: desenvolvimento de aplicação com backend e persistência de dados em servidor.</a></li>
 </ul></td>
 </tr>
 
@@ -270,7 +276,7 @@ Projeto: desenvolvimento de aplicação com backend e persistência de dados em 
 <td>18/06/2024</td>
 <td>Ter</td>
 <td><ul>
-<li>Discussão sobre os projetos anteriores e definições sobre o projeto final.</li>
+<li>Apresentações do terceiro projeto.</li>
 </ul></td>
 </tr>
 
