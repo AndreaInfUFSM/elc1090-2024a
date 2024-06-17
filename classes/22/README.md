@@ -75,31 +75,7 @@ Tecnologias: Vue.js, Adonis, MySQL ?
 
 Repo: https://github.com/elc1090/project3-2024a-flavio-jhuan-1
 
-Deploy: 
-
-
-### Matheus D.
-
-Tema: Currículos (apoio à busca de emprego)
-
-Tecnologias: Laravel
-
-Repo: ?
-
 Deploy: ?
-
-
-### Weverton
-
-Tema: Entrevistas / Reconstrução
-
-Tecnologias: React, Node, MongoDB
-
-Repo: ?
-
-Deploy: ?
-
-
 
 
 ### Renan e Thales
@@ -110,7 +86,7 @@ Tecnologias: Laravel, Vue, SQL ?
 
 Repo: https://github.com/elc1090/project3-2024a-renan-e-thales
 
-Deploy: 
+Deploy: ?
 
 
 ### Alfredo e Pedro Henrique
@@ -121,7 +97,7 @@ Tecnologias: React, Node/Express, SQL ? (mudou tudo?)
 
 Repo: https://github.com/elc1090/project3-2024a-alfredo-pedro
 
-
+Deploy: ?
 
 
 
@@ -143,5 +119,27 @@ Tema: Controle de estoque para abrigos
 Tecnologias: React, Node/Express, PostgreSQL ?
 
 Repo: https://github.com/elc1090/project3-2024a-anthony-luizfelipe
+
+Deploy: ?
+
+
+### Matheus D.
+
+Tema: Currículos (apoio à busca de emprego)
+
+Tecnologias: Laravel
+
+Repo: ?
+
+Deploy: ?
+
+
+### Weverton
+
+Tema: Entrevistas / Reconstrução
+
+Tecnologias: React, Node, MongoDB
+
+Repo: ?
 
 Deploy: ?
