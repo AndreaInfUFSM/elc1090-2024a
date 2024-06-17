@@ -276,7 +276,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>18/06/2024</td>
 <td>Ter</td>
 <td><ul>
-<li>Apresentações do terceiro projeto.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/22/README.md">Apresentações do terceiro projeto.</a></li>
 </ul></td>
 </tr>
 
