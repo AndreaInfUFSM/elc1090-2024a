@@ -89,13 +89,15 @@ Repo: https://github.com/elc1090/project3-2024a-renan-e-thales
 Deploy: ?
 
 
-### Alfredo e Pedro Henrique
 
-Tema: Currículos (apoio à busca de emprego)
 
-Tecnologias: React, Node/Express, SQL ? (mudou tudo?)
+### Vitória e Bruna
 
-Repo: https://github.com/elc1090/project3-2024a-alfredo-pedro
+Tema: Controle de estoque para abrigos
+
+Tecnologias: Spring Boot, Angular, PostgreSQL
+
+Repo: https://github.com/elc1090/project3-2024a-shelterhub
 
 Deploy: ?
 
@@ -122,6 +124,16 @@ Repo: https://github.com/elc1090/project3-2024a-anthony-luizfelipe
 
 Deploy: ?
 
+
+### Alfredo e Pedro Henrique
+
+Tema: Currículos (apoio à busca de emprego)
+
+Tecnologias: React, Node/Express, SQL ? (mudou tudo?)
+
+Repo: https://github.com/elc1090/project3-2024a-alfredo-pedro
+
+Deploy: ?
 
 ### Matheus D.
 
