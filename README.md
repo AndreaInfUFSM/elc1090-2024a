@@ -295,7 +295,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Ivan, Marcos e Matheus; (2) Renan e Thales; (3) Vitória e Bruna; (4)  Mauro e Ramon; (5) Anthony e Luiz Felipe</li>
+<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
@@ -306,7 +306,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
+<li>Equipes: (1) Vitória e Bruna; (2) Anthony e Luiz Felipe; (3) Ivan, Marcos e Matheus; (4) Renan e Thales; (5) Mauro e Ramon</li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
@@ -317,7 +317,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Ivan, Marcos e Matheus; (2) Renan e Thales; (3) Vitória e Bruna; (4)  Mauro e Ramon; (5) Anthony e Luiz Felipe</li>
+<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
@@ -328,7 +328,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
+<li>Equipes: (1) Vitória e Bruna; (2) Anthony e Luiz Felipe; (3) Ivan, Marcos e Matheus; (4) Renan e Thales; (5) Mauro e Ramon</li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
@@ -340,7 +340,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Ivan, Marcos e Matheus; (2) Renan e Thales; (3) Vitória e Bruna; (4)  Mauro e Ramon; (5) Anthony e Luiz Felipe</li>
+<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
@@ -352,7 +352,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
+<li>Equipes: (1) Vitória e Bruna; (2) Anthony e Luiz Felipe; (3) Ivan, Marcos e Matheus; (4) Renan e Thales; (5) Mauro e Ramon</li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
