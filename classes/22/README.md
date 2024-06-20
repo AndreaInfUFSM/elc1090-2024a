@@ -146,7 +146,7 @@ Repo: ?
 Deploy: ?
 
 
-### Weverton
+### Wederson
 
 Tema: Entrevistas / Reconstrução
 

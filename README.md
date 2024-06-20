@@ -285,7 +285,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>20/06/2024</td>
 <td>Qui</td>
 <td><ul>
-<li>Desenvolvimento do projeto final.</li>
+<li>Definições sobre o desenvolvimento do projeto final.</li>
 </ul></td>
 </tr>
 
@@ -295,6 +295,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
+<li>Equipes: (1) Ivan, Marcos e Matheus; (2) Renan e Thales; (3) Vitória e Bruna; (4)  Mauro e Ramon; (5) Anthony e Luiz Felipe</li>
+<li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
 
@@ -304,6 +306,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
+<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
+<li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
 
@@ -313,6 +317,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
+<li>Equipes: (1) Ivan, Marcos e Matheus; (2) Renan e Thales; (3) Vitória e Bruna; (4)  Mauro e Ramon; (5) Anthony e Luiz Felipe</li>
+<li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
 
@@ -322,6 +328,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
+<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
+<li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
 
@@ -330,7 +338,10 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>09/07/2024</td>
 <td>Ter</td>
 <td><ul>
+
 <li>Desenvolvimento do projeto final.</li>
+<li>Equipes: (1) Ivan, Marcos e Matheus; (2) Renan e Thales; (3) Vitória e Bruna; (4)  Mauro e Ramon; (5) Anthony e Luiz Felipe</li>
+<li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
 
@@ -339,7 +350,10 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>11/07/2024</td>
 <td>Qui</td>
 <td><ul>
-<li>Apresentações dos projetos finais.</li>
+
+<li>Desenvolvimento do projeto final.</li>
+<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
+<li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
 
@@ -353,7 +367,14 @@ Apresentação da disciplina e do plano de ensino.</li>
 </tr>
 
 
-
+<tr>
+<td align="right">31</td>
+<td>18/07/2024</td>
+<td>Qui</td>
+<td><ul>
+<li>Apresentações dos projetos finais.</li>
+</ul></td>
+</tr>
 
 
 
@@ -384,7 +405,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 
 
 <tr>
-<td align="right">31</td>
+<td align="right">32</td>
 <td>A definir</td>
 <td>-</td>
 <td><ul>
