@@ -295,7 +295,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
+<li>Equipes: (1) <a href="https://github.com/elc1090/project3-2024a-flavio-jhuan-1">Flávio e Jhuan</a>; (2) <a href="https://github.com/elc1090/project3-2024a-alfredo-pedro">Alfredo e Pedro Henrique</a>; (3) <a href="https://github.com/elc1090/project3-2024a-matheus">Matheus</a>; (4) <a href="https://github.com/elc1090/project3-2024a-herois-anonimos">Wederson</a></li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
@@ -306,7 +306,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Vitória e Bruna; (2) Anthony e Luiz Felipe; (3) Ivan, Marcos e Matheus; (4) Renan e Thales; (5) Mauro e Ramon</li>
+<li>Equipes: (1) <a href="https://github.com/elc1090/project3-2024a-shelterhub">Vitória e Bruna</a>; (2) <a href="https://github.com/elc1090/project3-2024a-anthony-luizfelipe">Anthony e Luiz Felipe</a>; (3) <a href="https://github.com/elc1090/project3-2024a-ivan-matheus-marcos">Ivan, Marcos e Matheus</a>; (4) <a href="https://github.com/elc1090/project3-2024a-renan-e-thales">Renan e Thales</a>; (5) <a href="https://github.com/elc1090/project3-2024a-mauro-ramon">Mauro e Ramon</a></li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
@@ -317,7 +317,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Ter</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
+<li>Equipes: (1) <a href="https://github.com/elc1090/project3-2024a-flavio-jhuan-1">Flávio e Jhuan</a>; (2) <a href="https://github.com/elc1090/project3-2024a-alfredo-pedro">Alfredo e Pedro Henrique</a>; (3) <a href="https://github.com/elc1090/project3-2024a-matheus">Matheus</a>; (4) <a href="https://github.com/elc1090/project3-2024a-herois-anonimos">Wederson</a></li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
@@ -328,7 +328,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>Qui</td>
 <td><ul>
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Vitória e Bruna; (2) Anthony e Luiz Felipe; (3) Ivan, Marcos e Matheus; (4) Renan e Thales; (5) Mauro e Ramon</li>
+<li>Equipes: (1) <a href="https://github.com/elc1090/project3-2024a-shelterhub">Vitória e Bruna</a>; (2) <a href="https://github.com/elc1090/project3-2024a-anthony-luizfelipe">Anthony e Luiz Felipe</a>; (3) <a href="https://github.com/elc1090/project3-2024a-ivan-matheus-marcos">Ivan, Marcos e Matheus</a>; (4) <a href="https://github.com/elc1090/project3-2024a-renan-e-thales">Renan e Thales</a>; (5) <a href="https://github.com/elc1090/project3-2024a-mauro-ramon">Mauro e Ramon</a></li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
@@ -338,9 +338,8 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>09/07/2024</td>
 <td>Ter</td>
 <td><ul>
-
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Flávio e Jhuan; (2) Alfredo e Pedro Henrique; (3) Matheus; (4) Wederson</li>
+<li>Equipes: (1) <a href="https://github.com/elc1090/project3-2024a-flavio-jhuan-1">Flávio e Jhuan</a>; (2) <a href="https://github.com/elc1090/project3-2024a-alfredo-pedro">Alfredo e Pedro Henrique</a>; (3) <a href="https://github.com/elc1090/project3-2024a-matheus">Matheus</a>; (4) <a href="https://github.com/elc1090/project3-2024a-herois-anonimos">Wederson</a></li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
@@ -352,7 +351,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td><ul>
 
 <li>Desenvolvimento do projeto final.</li>
-<li>Equipes: (1) Vitória e Bruna; (2) Anthony e Luiz Felipe; (3) Ivan, Marcos e Matheus; (4) Renan e Thales; (5) Mauro e Ramon</li>
+<li>Equipes: (1) <a href="https://github.com/elc1090/project3-2024a-shelterhub">Vitória e Bruna</a>; (2) <a href="https://github.com/elc1090/project3-2024a-anthony-luizfelipe">Anthony e Luiz Felipe</a>; (3) <a href="https://github.com/elc1090/project3-2024a-ivan-matheus-marcos">Ivan, Marcos e Matheus</a>; (4) <a href="https://github.com/elc1090/project3-2024a-renan-e-thales">Renan e Thales</a>; (5) <a href="https://github.com/elc1090/project3-2024a-mauro-ramon">Mauro e Ramon</a></li>
 <li><b>Deploy deve estar disponível no dia anterior.</b> Demais equipes em atividade assíncrona.</li>
 </ul></td>
 </tr>
