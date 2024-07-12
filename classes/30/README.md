@@ -53,9 +53,7 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 
 
-
-
-### Dia 16/07/24
+<h4>Dia 16/07/2024</h4>
 
 
 
@@ -70,18 +68,15 @@ https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfU
 
 
 
+<h4>Dia 18/07/2024</h4>
 
-
-### Dia 18/07/24
 
 
 <!-- data-type="none" -->
 | Projeto    | Dev(s)     | Tester(s)   |
 | :--------- | :--------- | :--------- |
-| https://github.com/elc1090/project3-2024a-shelterhub
-     | Bruna e Vitória     | Matheus     |
+| https://github.com/elc1090/project3-2024a-shelterhub     | Bruna e Vitória     | Matheus     |
 | https://github.com/elc1090/project3-2024a-anthony-luizfelipe     | Anthony e Luiz Felipe      | Alfredo e Pedro Henrique     |
 | https://github.com/elc1090/project3-2024a-ivan-matheus-marcos  | Ivan, Marcos e Matheus      | Renan e Thales     |
 | https://github.com/elc1090/project3-2024a-renan-e-thales  | Renan e Thales      | Flávio e Jhuan     |
-| https://github.com/elc1090/project3-2024a-mauro-ramon
-  | Mauro e Ramon      | Wederson     |
+| https://github.com/elc1090/project3-2024a-mauro-ramon   | Mauro e Ramon      | Wederson     |
