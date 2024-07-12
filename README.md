@@ -361,7 +361,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>16/07/2024</td>
 <td>Ter</td>
 <td><ul>
-<li>Apresentações dos projetos finais.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/30/README.md">Apresentações dos projetos finais.</a></li>
 </ul></td>
 </tr>
 
@@ -371,7 +371,7 @@ Apresentação da disciplina e do plano de ensino.</li>
 <td>18/07/2024</td>
 <td>Qui</td>
 <td><ul>
-<li>Apresentações dos projetos finais.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc1090-2024a/master/classes/30/README.md">Apresentações dos projetos finais.</a></li>
 </ul></td>
 </tr>
 
